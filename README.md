@@ -64,5 +64,25 @@ Open the project in IntelliJ IDEA and run `ProjectApplication.java`
 
     http://localhost:8080/pages/welcome.html
 
+## 📸 Screenshots
+
+### Welcome Screen
+![Welcome](screenshots/welcome.png)
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Deposit Money
+![Deposit](screenshots/deposit.png)
+
+### Transaction History
+![History](screenshots/history.png)
+
+### Balance
+![Balance](screenshots/balance.png)
+
 ## 👤 Author
 **Ishu Harit** — B.Tech ECE, DCRUST Murthal
